@@ -17,12 +17,17 @@ This repository is a companion to the learning resources provided by [Hitesh Cho
    - Build simple React applications to understand core concepts.
    - Dive into React hooks such as useState, useEffect, useContext, and more.
    
-2. **Mastering Tailwind CSS**
+2. **Practice Tailwind CSS**
    - Explore the power of Tailwind CSS utility classes to rapidly style your applications.
    - Learn layout techniques, responsive design, and custom component styling.
    - Utilize Tailwind CSS plugins and configurations to optimize your development workflow.
+3. Basic Projects
 
-3. **Building Advanced Projects**
+Build simple projects to solidify your understanding of ReactJS and Tailwind CSS.
+
+- **Todo List Application**: Create a basic todo list application with ReactJS and style it with Tailwind CSS.
+- **Weather App**: Build a weather application that fetches data from an API and displays it using ReactJS and Tailwind CSS.
+4. **Building Advanced Projects**
    - Combine ReactJS and Tailwind CSS to build real-world applications.
    - Explore advanced React patterns and techniques for scalable and maintainable code.
    - Enhance your projects with animations, transitions, and other modern web design features.
