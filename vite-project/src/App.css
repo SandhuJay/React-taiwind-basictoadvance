@@ -1,0 +1,22 @@
+h1,h2{
+ text-align: center;
+
+}
+
+.container{
+
+    text-align: center;
+  
+    justify-items: center;
+}
+
+.btn:hover{
+    background-color: rgb(3, 42, 240);
+   color: chocolate;
+}
+.btn{
+    box-sizing: border-box;
+    border:  1px solid;
+    border-radius: 5px;
+    
+}

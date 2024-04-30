@@ -1,0 +1,27 @@
+
+.bt-1{
+    background-color: red;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.bt-2{
+    background-color:blue;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.bt-3{
+    background-color: green;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.bt-4{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+.bt-5{
+    background-color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
